@@ -1,7 +1,3 @@
-* Hewan Darat
-Hewan Berkaki Empat
--
--
--
--
+Hewan Darat
+  * 
 
