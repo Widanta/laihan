@@ -1,3 +1,3 @@
 # Ide
 
-Repositori yang berisi tentang ide 
+Repositori yang berisi tentang ide artikel
