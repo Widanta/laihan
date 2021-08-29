@@ -2,7 +2,7 @@ Hewan Darat
   * Hewan Darat Berkaki Empat
    - Babi 
    - Sapi
-   -
+   - Singa
   * Hewan Darat Berkaki dua
   * Hewan Darat Tidak  Berkaki
   
