@@ -5,7 +5,7 @@ Hewan Darat
    - Singa
    - Harimau
    - Singa
-   -
+   - Kuda
    -
   * Hewan Darat Berkaki dua
   * Hewan Darat Tidak  Berkaki
