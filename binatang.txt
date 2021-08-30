@@ -6,7 +6,7 @@ Hewan Darat
    - Harimau
    - Singa
    - Kuda
-   -
+   - Zevra
   * Hewan Darat Berkaki dua
   * Hewan Darat Tidak  Berkaki
   
