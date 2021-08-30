@@ -4,7 +4,7 @@ Hewan Darat
    - Sapi
    - Singa
    - Harimau
-   -
+   - Singa
    -
    -
   * Hewan Darat Berkaki dua
