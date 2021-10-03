@@ -10,6 +10,6 @@ Hewan Darat
    - Jerapah
    - Buaya
   * Hewan Darat Berkaki dua
-   - ayam
+   - Ayam
   * Hewan Darat Tidak  Berkaki
   
