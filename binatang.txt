@@ -9,6 +9,6 @@ Hewan Darat
    - Zebra
    - Jerapah
   * Hewan Darat Berkaki dua
-  - aya
+  - ayam
   * Hewan Darat Tidak  Berkaki
   
