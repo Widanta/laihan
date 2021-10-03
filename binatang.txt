@@ -8,7 +8,7 @@ Hewan Darat
    - Kuda
    - Zebra
    - Jerapah
-   - Buay
+   - Buaya
   * Hewan Darat Berkaki dua
   - ayam
   * Hewan Darat Tidak  Berkaki
