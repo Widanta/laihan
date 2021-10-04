@@ -11,6 +11,6 @@ Hewan Darat
    - Buaya
   * Hewan Darat Berkaki dua
    - Ayam
-  - bebek
+   - bebek
   * Hewan Darat Tidak  Berkaki
   
