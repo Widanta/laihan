@@ -14,5 +14,5 @@ Hewan Darat
    - Bebek
   * Hewan Darat Tidak  Berkaki
   - ular
-  - u
+  - ul
   
