@@ -13,5 +13,5 @@ Hewan Darat
    - Ayam
    - Bebek
   * Hewan Darat Tidak  Berkaki
-  -
+  - u
   
