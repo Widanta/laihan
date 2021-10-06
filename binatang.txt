@@ -9,7 +9,7 @@ Hewan Darat
    - Zebra
    - Jerapah
    - Buaya
-  -ban
+  -bant
   * Hewan Darat Berkaki dua
    - Ayam
    - Bebek
