@@ -13,7 +13,7 @@ Hewan Darat
   * Hewan Darat Berkaki dua
    - Ayam
    - Bebek
-  -monyet
+   -monyet
   * Hewan Darat Tidak  Berkaki
    - Ular
    - Ulat
