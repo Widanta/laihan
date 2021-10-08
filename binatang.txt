@@ -5,7 +5,7 @@ Hewan Darat
    - Singa
    - Harimau
    - Singa
--mac
+-maca
    - Kuda
    - Zebra
    - Jerapah
