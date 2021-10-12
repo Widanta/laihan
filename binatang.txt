@@ -16,6 +16,6 @@ Hewan Darat
    - Bebek
    - Monyet
   * Hewan Darat Tidak  Berkaki
-   - Ul
+ 
 
   
