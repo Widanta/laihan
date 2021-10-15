@@ -1,6 +1,6 @@
 Hewan Darat
   * Hewan Darat Berkaki Empat
-   - Bab
+   - Ba
    - Sapi
    - Singa
    - Harimau
