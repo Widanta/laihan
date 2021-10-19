@@ -18,4 +18,3 @@ Hewan Darat
   * Hewan Darat Tidak  Berkaki
   - Ulat
 -u
-  
