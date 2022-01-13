@@ -1,3 +1,3 @@
 # Ide
 
-Repositori yang berisi tentang
+Repositori yang berisi tentan
