@@ -1,3 +1,3 @@
 # Ide
 
-Repositori yang berisi tentang ar
+Repositori yang berisi tentang a
