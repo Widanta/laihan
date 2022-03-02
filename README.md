@@ -1,3 +1,3 @@
 # Ide
 
-Repositori yang berisi tentang ide arti
+Repositori yang berisi tentang ide art
