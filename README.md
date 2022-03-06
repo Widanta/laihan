@@ -1,3 +1,3 @@
 # Ide
 
-Repositori yang berisi tentang id
+Repositori yang berisi tentang i
