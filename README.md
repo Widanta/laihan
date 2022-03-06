@@ -1,3 +1,3 @@
 # Ide
 
-Repositori yang berisi tent
+Repositori yang berisi ten
