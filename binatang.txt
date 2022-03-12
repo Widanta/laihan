@@ -15,6 +15,6 @@ Hewan Darat
    - Ayam
    - Bebek
    - Monyet
-  * Hewan Darat Tidak  Berkaki
+  * Hewan Darat Tidak  Berkak
 
-  
+
