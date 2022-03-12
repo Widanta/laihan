@@ -1,3 +1,3 @@
 # Ide
 
-Repositori yang berisi ten
+Repositori yang berisi te
