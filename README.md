@@ -1,3 +1,3 @@
 # Ide
 
-Repositori yang beri
+Repositori yang ber
