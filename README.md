@@ -1,3 +1,3 @@
 # Ide
 
-Repositori ya
+Repositori y
