@@ -32,7 +32,8 @@ Atletik
   - Lompat jauh
   - Lompat jangkit
   - Lompat galah
-  - Lompat harima
+  - Lompat harim
+  
 
 - Lempar
   - Lempar lembing
