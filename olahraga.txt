@@ -32,7 +32,7 @@ Atletik
   - Lompat jauh
   - Lompat jangkit
   - Lompat galah
-  - Lompat h
+  - Lompat 
   
 
 - Lempar
